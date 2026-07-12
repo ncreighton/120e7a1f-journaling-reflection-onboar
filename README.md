@@ -1,2 +1,34 @@
-# 120e7a1f-journaling-reflection-onboar
-Built for journaling professionals who are tired of missing messages, manually responding to routine requests at all hours.  Easy setup: invite → configure → active in under 10 minutes. Multi-server support with per-server configuration and permission levels.  ## What's Included  - Journaling &amp; Reflection Onboarding And Welcome Flow — fully configu
+# Journaling & Reflection Onboarding and Welcome Flow Discord Bot
+
+Guided onboarding, role selection, channel tours, and first-week engagement tracking. First impressions that make members stay.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJe28r12D4sc09a33mcZK39)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJe28r12D4sc09a33mcZK39)
+
